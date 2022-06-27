@@ -4,7 +4,7 @@
     height: 176px;
     left: 128px;
     top: 0px;
- 
+
 }
 
 #logo{
@@ -17,7 +17,7 @@
 
 .lateral{
     position: absolute;
-    width: 980px;
+    width: 100%;
     height: 162px;
     left: 385px;
     top: 0px;
@@ -26,7 +26,7 @@
 
 .retangulo{
     position: absolute;
-    width: 1364px;
+    width: 100%;
     height: 20px;
     left: 0px;
     top: 181px;
@@ -78,9 +78,133 @@
 
 .retangulo6{
     position: absolute;
-    width: 4465px;
-    height: 189px;
-    left: 178px;
+    width: 1360px;
+    height: 650px;
+    left: 50px;
     top: 1470px;
     background: #0D4E73;
+}
+.line1{
+    position: absolute;
+    width: 700px;
+    height: px;
+    left: 350px;
+    top: 310px;
+    border: 1px solid #ffffff;
+    transform: rotate(89.55deg);
+}
+#logo2{
+    position: absolute;
+    width: 1145px;
+    height: 343px;
+    left: 0px;
+    top: 2350px;
+
+}
+
+#central{
+    position: absolute;
+    width: 1145px;
+    height: 571px;
+    left: 50px;
+    top: 2850px;
+}
+
+.retangulo7{
+    position: absolute;
+    width: 1265px;
+    height: 500px;
+    left: 50px;
+    top: 3550px;
+    background: #0D4E73; 
+}
+
+.line2{
+    position: absolute;
+    width: 500px;
+    height: 0px;
+    left: 400px;
+    top: 250px;
+    border: 1px solid #ffffff;
+    transform: rotate(89.55deg);
+}
+
+.rodape{
+    position: absolute;
+    width: 4840px;
+    height: 1499px;
+    left: 0px;
+    top: 4550px; 
+}
+
+.sobre1{
+    top: -5px;
+    font-size: 20px;
+}
+
+.sobre2{
+    top: -5px;
+    font-size: 30px;
+}
+
+.sobre3{
+    top: 0px;
+    font-size: 20px;
+}
+
+.texto{
+    position: absolute;
+    width: 700px;
+    height: 450px;
+    left: 0px;
+    top: 50px;
+}
+
+.sobre4{
+    top: -5px;
+    font-size: 20px;
+}
+
+.sobre5{
+    top: 5px;
+    font-size: 30px;
+}
+
+.sobre6{
+    top: 55px;
+    font-size: 20px;
+}
+
+.sobre7{
+    top: 55px;
+    font-size: 20px;
+}
+
+.texto2{
+    position: absolute;
+    width: 650px;
+    height: 400px;
+    left: 710px;
+    top: 0px;
+    font-size: 30px;
+}
+
+.sobre8{
+    top: 55px;
+    font-size: 20px;
+}
+
+.sobre9{
+    top: 0px;
+    font-size: 30px;
+}
+
+.sobre10{
+    top: 55px;
+    font-size: 20px;
+}
+
+.sobre101{
+    font-size: 20px;
+    color: #ffffff;
 }
